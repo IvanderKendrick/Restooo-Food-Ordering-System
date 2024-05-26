@@ -27,10 +27,9 @@ Upon running the program, users are presented with the following main menu:
 
 ## Running the Program
 
-To run the program, execute the main Python file.
+To run the program, execute the Python file.
 
 ```
-
 Contact
 For any inquiries or feedback, feel free to reach out:
 
